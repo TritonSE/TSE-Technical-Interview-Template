@@ -34,10 +34,10 @@ If the line above starts with `##`, then you're reading raw Markdown syntax. To 
 1. **Open the solution file for your language.** This gives you syntax highlighting and autocompletion.
    1. Go to the left sidebar and find the list of files
    1. Find the solution file for your language (e.g. `solution.py`)
-   1. If the language you want isn't there, create a new file with the appropriate extension using the "New File" button at the top of the sidebar
+      * If the language you want isn't there, create a new file with the appropriate extension using the "New File" button at the top of the sidebar
    1. Right-click the file (Windows/Linux) or hold the Control key and click the file (Mac)
    1. Click "Open to the Side" to get a split-screen view
-1. If you have any questions right now, let your interviewers know!
+1. If you have any questions, please ask your interviewers now.
 1. When you are ready to begin, your interviewers will paste the problem description at the bottom of this README file, and your 50 minute timer will begin.
 
 # Problem description placeholder
