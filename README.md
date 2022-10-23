@@ -15,8 +15,10 @@ If the line above starts with `##`, then you're reading raw Markdown syntax. To 
 * You will have **50 minutes** to work on a programming task with multiple parts.
 * You can **choose any programming language**, but the task may be easier in some languages than others.
 * You **can't run your code**, but you'll still have syntax highlighting and autocomplete.
-* You shouldn't need any external documentation.
+* You **can't use any documentation or other resources**, but you shouldn't need to.
   * It's okay if you don't remember the exact name of a function (for example), as long as you communicate this with your interviewers, and everyone understands what you mean.
+* You **shouldn't install any language extensions** in the online IDE. If you have any installed, please disable them.
+  * This ensures that all candidates have the same experience. We also found that some language extensions give distracting autocomplete options from libraries you definitely won't need.
 * You can ask clarifying questions anytime.
 * If you get stuck, your interviewers can give you hints.
 * The questions are designed to be long, with multiple parts, so you aren't expected to finish everything.
