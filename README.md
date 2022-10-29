@@ -22,6 +22,7 @@ If the line above starts with `##`, then you're reading raw Markdown syntax. To 
 * You can ask clarifying questions anytime.
 * If you get stuck, your interviewers can give you hints.
 * The questions are designed to be long, with multiple parts, so you aren't expected to finish everything.
+* You **can't keep or share the problem statement or your solution code**, to maintain the integrity of the interview process.
 
 ## What we're looking for
 
