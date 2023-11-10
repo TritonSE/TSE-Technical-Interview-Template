@@ -6,7 +6,7 @@ Welcome to TSE's technical interview for the Developer role!
 
 * You will have **50 minutes** to work on a programming task with multiple parts.
 * You can **choose any programming language**, but the task may be easier in some languages than others.
-* You **can't run your code**, but you'll still have syntax highlighting and autocomplete.
+* You **can't run your code**, but you'll still have syntax highlighting.
 * You **can't use any documentation or other resources**, but you shouldn't need to.
   * It's okay if you don't remember the exact name of a function (for example), as long as you communicate this with your interviewers, and everyone understands what you mean.
 * You **can't use any external code other than your language's standard library**, but you shouldn't need to.
